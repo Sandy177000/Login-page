@@ -1,3 +1,11 @@
+# Login-Page
+This is simple yet responsive login page built using Reactjs and styled components.
+Styled-components is a library that allows you to write CSS in JS while building custom components in Reactjs.
+
+#UI-Snapshot
+![img1](https://github.com/Sandy177000/Login-page/assets/112424645/4254bab6-ed1e-4c87-ad00-e689c150f695)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
